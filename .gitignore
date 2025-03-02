@@ -1,0 +1,12 @@
+# Ignore virtual environment
+mood_env/
+mood_env/*
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+__pycache__/
+*.log
+
+# Ignore VS Code settings
+.vscode/
